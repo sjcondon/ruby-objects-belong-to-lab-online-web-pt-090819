@@ -3,8 +3,8 @@
 
   @@all = []
   
-  def initialize(name)
-    @name = name
+  def initialize
+    # @name = name
     @@all << self
   end
 
